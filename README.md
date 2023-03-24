@@ -20,3 +20,4 @@ Communities that use chats and announcements and events placed in the calendar
 * Calendar editing permissions
 * Messaging permissions
 * Location sharing/viewing permissions
+* Seinding alerts
