@@ -8,6 +8,7 @@ Manage time easier and see when you can hang out with other group members based 
 Location will only be visible by others if you turn it on, you can only see location of others if you have yours turned on
 * Different permissions for different members
 Group admin or owner can change any members permissions
+* Sending notifications/reminders to a specific person or multiple users
 
 ## Use
 Friend groups that can plan hang out using the calendar or get in touch through the chat
