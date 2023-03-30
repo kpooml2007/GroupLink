@@ -1,4 +1,5 @@
 # GroupLink
+Website where you can create groups to talk in and use many more features
 ## Features
 * Groups where the creator can add other users
 * Chat in groups with other group members
