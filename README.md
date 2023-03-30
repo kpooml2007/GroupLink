@@ -1,4 +1,4 @@
-# Bond-ink
+# GroupLink
 ## Features
 * Groups where the creator can add other users
 * Chat in groups with other group members
