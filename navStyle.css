@@ -1,11 +1,29 @@
 body, html {
 	padding: 0;
 	margin: 0;
+	height: 100%;
+}
+
+img {
+	width: 100%;
 }
 
 .navContainer {
 	width: 150px;
 	height: 100%;
 	background-color: white;
-	border-right: 1px solid rgb(240, 240, 240);
+	border-right: 2px solid rgb(200, 200, 200);
+}
+
+.navItem {
+	padding: 25px;
+}
+
+.navItem:hover {
+	cursor: pointer;
+}
+
+.current {
+	border-radius: 10px;
+	background-color: rgb(224, 221, 255);
 }
