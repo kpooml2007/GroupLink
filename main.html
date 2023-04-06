@@ -4,16 +4,18 @@
 	<meta charset="UTF-8">
 	<title>GroupLink</title>
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<!--<link rel="stylesheet" href="./navStyle.css">-->
+	<link rel="stylesheet" href="./mainStyle.css">
 	<link rel="stylesheet" href="./navStyle.css">
 	<script src="./code.js"></script>
 </head>
 <body>
 	<div class="navContainer">
 		<div class="navItem current"><img src="./resources/message.png" alt="Chat"></div>
-		<div class="navItem"><img src="./resources/calendar.png" alt="Calendar"></div>
-		<div class="navItem"><img src="./resources/map.png" alt="Map"></div>
-		<div class="navItem"><img src="./resources/alert.png" alt="Alerts"></div>
+		<a href="./calendar.html"><div class="navItem"><img src="./resources/calendar.png" alt="Calendar"></div></a>
+		<a href="./map.html"><div class="navItem"><img src="./resources/map.png" alt="Map"></div></a>
+		<a href="alert.html"><div class="navItem"><img src="./resources/alert.png" alt="Alerts"></div></a>
 	</div>
+	<input type="text" id="messageBox">
+	<div id="sendMessage">Send</div>
 </body>
 </html>
